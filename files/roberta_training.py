@@ -14,6 +14,9 @@ folgende Funktionen werden verwendet:
 - Optimizer: Adam
 
 da die Konfigurationsdateien bei Ausführung des Codes automatisch heruntergeladen werden, werden diese nicht mit zur Verfügung gestellt
+
+
+!!!! AKTUELL IST DIE K-FOLD CROSS-VALIDATION FALSCH EINGEBUNDEN
 """
 
 #### ---------- import ----------
